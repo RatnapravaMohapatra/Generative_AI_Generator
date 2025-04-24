@@ -58,6 +58,10 @@ st.markdown(
         color: white;
         margin-bottom: 20px;
     }
+    h1 {
+        font-weight: bold !important;
+        color: white !important;
+    }
     </style>
     """,
     unsafe_allow_html=True,
